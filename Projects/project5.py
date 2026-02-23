@@ -62,7 +62,7 @@ for i in range(10000000000):
 
 
     # TODO - make an if statement for ending the game
-    if get_distance (s1,s2) < 75:
+    if get_distance (s1,s2) < 200:
         print("You lose")
         break
     
